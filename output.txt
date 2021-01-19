@@ -1,0 +1,110 @@
+**Suggested empirical formulas with decimals will need to have their ratios multiplied by the appropriate amount**
+
+1:
+	Location: Blood & Luggage
+	C: 5.604029639497128
+	H: 6.924603174603175
+	N: 0.32983508245877063
+	O: 1.3188324270266891
+	Ratio: {'C': 17, 'H': 21, 'N': 1, 'O': 4}
+	Suggested Empirical Formula: C₁₇H₂₁NO₄
+2:
+	Location: Briefcase (a)
+	C: 5.25768045957872
+	H: 5.257936507936508
+	O: 1.9719982498906181
+	Ratio: {'C': 2.666, 'H': 2.666, 'O': 1}
+	Suggested Empirical Formula: C₂.₆₆₆H₂.₆₆₆O
+3:
+	Location: Stomach (b)
+	C: 4.9954208642078095
+	H: 4.444444444444445
+	O: 2.2207637977373587
+	Ratio: {'C': 2.249, 'H': 2, 'O': 1}
+	Suggested Empirical Formula: C₂.₂₄₉H₂O
+4:
+	Location: Pockets (2000 tablets)
+	C: 6.006993589209892
+	H: 7.023809523809524
+	N: 0.3341186549582352
+	O: 1.001937621101319
+	Ratio: {'C': 18, 'H': 21, 'N': 1, 'O': 3}
+	Suggested Empirical Formula: C₁₈H₂₁NO₃
+5:
+	Location: Blood & Pockets
+	C: 1.3212888185829657
+	H: 2.2023809523809526
+	N: 1.321482116084815
+	O: 3.9633727107944243
+	Ratio: {'C': 1, 'H': 1.667, 'N': 1, 'O': 3}
+	Suggested Empirical Formula: CH₁.₆₆₇NO₃
+6:
+	Location: Blood (a)
+	C: 6.7005245191907425
+	H: 7.390873015873016
+	N: 0.6703790961662026
+	O: 0.16751046940433778
+	Ratio: {'C': 40, 'H': 44.122, 'N': 4, 'O': 1}
+	Suggested Empirical Formula: C₄₀H₄₄.₁₂₂N₄O
+7:
+	Location: Luggage (b)
+	C: 3.081342103072184
+	H: 2.2023809523809526
+	N: 1.320768187334904
+	O: 2.6420401275079692
+	Ratio: {'C': 2.333, 'H': 1.668, 'N': 1, 'O': 2}
+	Suggested Empirical Formula: C₂.₃₃₃H₁.₆₆₈NO₂
+8:
+	Location: Pockets (a)
+	C: 6.7005245191907425
+	H: 7.390873015873016
+	N: 0.6703790961662026
+	O: 0.16751046940433778
+	Ratio: {'C': 40, 'H': 44.122, 'N': 4, 'O': 1}
+	Suggested Empirical Formula: C₄₀H₄₄.₁₂₂N₄O
+9:
+	Location: Stomach (b)
+	C: 4.757305803013904
+	H: 6.111111111111112
+	N: 0.6796601699150424
+	O: 1.698856178511157
+	Ratio: {'C': 7, 'H': 9, 'N': 1, 'O': 2.5}
+	Suggested Empirical Formula: C₇H₉NO₂.₅
+10:
+	Location: Briefcase (a)
+	C: 6.279244026309217
+	H: 6.5773809523809526
+	N: 0.5982722924252161
+	O: 0.5981623851490718
+	Ratio: {'C': 10.498, 'H': 11, 'N': 1, 'O': 1}
+	Suggested Empirical Formula: C₁₀.₄₉₈H₁₁NO
+11:
+	Location: Luggage (b)
+	C: 6.792107235034552
+	H: 8.829365079365079
+	N: 0.6796601699150424
+	Ratio: {'C': 10, 'H': 13, 'N': 1}
+	Suggested Empirical Formula: C₁₀H₁₃N
+12:
+	Location: Pocket & Briefcase (a)
+	C: 4.9954208642078095
+	H: 4.444444444444445
+	O: 2.2207637977373587
+	Ratio: {'C': 2.249, 'H': 2, 'O': 1}
+	Suggested Empirical Formula: C₂.₂₄₉H₂O
+13:
+	Location: Pocket & Briefcse (b)
+	C: 5.29181583548414
+	H: 5.9523809523809526
+	N: 0.6618119511672735
+	O: 1.3232077004812801
+	Ratio: {'C': 8, 'H': 9, 'N': 1, 'O': 2}
+	Suggested Empirical Formula: C₈H₉NO₂
+14:
+	Location: Crash site
+	C: 3.081342103072184
+	H: 2.2023809523809526
+	N: 1.320768187334904
+	O: 2.6420401275079692
+	Ratio: {'C': 2.333, 'H': 1.668, 'N': 1, 'O': 2}
+	Suggested Empirical Formula: C₂.₃₃₃H₁.₆₆₈NO₂
